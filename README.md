@@ -55,7 +55,7 @@ This project was developed as part of a user study published at the **IEEE VR Co
   Character models are based on assets from **Mixamo**, with minor texture adjustments.
 
 - **Lab**  
-  The lab 3d model was provided by the Mixed Reality Lab of the *Frankfurt University of Applied Sciences* 
+  The lab 3d model and the AdvancedHighResScreenshot.cs script was provided by the Mixed Reality Lab of the *Frankfurt University of Applied Sciences* 
   
 - **Scenes & Logic**  
   All experimental logic and XR interaction features are implemented by me in **C#** within Unity.
