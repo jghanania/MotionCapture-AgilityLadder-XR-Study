@@ -1,0 +1,26 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl PDM_Haddonstone_Planter_Corredo_Jardiniere_A230_Leaf
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.509804 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd Blumentopf/PDM_Haddonstone_Planter_Corredo_Jardiniere_A230_Leaf.jpg
+
+newmtl M_0137_Black
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_0136_Charcoal
+Ka 0.000000 0.000000 0.000000
+Kd 0.137255 0.137255 0.137255
+Ks 0.330000 0.330000 0.330000
+
+newmtl _
+Ka 0.000000 0.000000 0.000000
+Kd 0.674510 0.674510 0.674510
+Ks 0.330000 0.330000 0.330000
+map_Kd Blumentopf/_.jpg
+
